@@ -1,0 +1,32 @@
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients\ingredients\bin\Debug\ingredients.exe.config
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients\ingredients\bin\Debug\ingredients.exe
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients\ingredients\bin\Debug\ingredients.pdb
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients\ingredients\obj\Debug\ingredients.csprojAssemblyReference.cache
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients\ingredients\obj\Debug\ingredients.Form1.resources
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients\ingredients\obj\Debug\ingredients.Properties.Resources.resources
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients\ingredients\obj\Debug\ingredients.csproj.GenerateResource.cache
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients\ingredients\obj\Debug\ingredients.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients\ingredients\obj\Debug\ingredients.exe
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients\ingredients\obj\Debug\ingredients.pdb
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients\ingredients\obj\Debug\ingredients.ButterChickenForm.resources
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients\ingredients\obj\Debug\ingredients.BarbequeRibsForm.resources
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients\ingredients\obj\Debug\ingredients.LambShoulderForm.resources
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients\ingredients\bin\Debug\Form2.resx
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients\ingredients\bin\Debug\Form2.cs
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients\ingredients\bin\Debug\Form2.Designer.cs
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients 2\ingredients\ingredients\bin\Debug\Form2.resx
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients 2\ingredients\ingredients\bin\Debug\Form2.cs
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients 2\ingredients\ingredients\bin\Debug\Form2.Designer.cs
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients 2\ingredients\ingredients\bin\Debug\ingredients.exe.config
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients 2\ingredients\ingredients\bin\Debug\ingredients.exe
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients 2\ingredients\ingredients\bin\Debug\ingredients.pdb
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients 2\ingredients\ingredients\obj\Debug\ingredients.csprojAssemblyReference.cache
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients 2\ingredients\ingredients\obj\Debug\ingredients.Form1.resources
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients 2\ingredients\ingredients\obj\Debug\ingredients.ButterChickenForm.resources
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients 2\ingredients\ingredients\obj\Debug\ingredients.BarbequeRibsForm.resources
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients 2\ingredients\ingredients\obj\Debug\ingredients.LambShoulderForm.resources
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients 2\ingredients\ingredients\obj\Debug\ingredients.Properties.Resources.resources
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients 2\ingredients\ingredients\obj\Debug\ingredients.csproj.GenerateResource.cache
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients 2\ingredients\ingredients\obj\Debug\ingredients.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients 2\ingredients\ingredients\obj\Debug\ingredients.exe
+C:\Users\Isaac Gannon\Desktop\Upskilled_Projects\ingredients 2\ingredients\ingredients\obj\Debug\ingredients.pdb
